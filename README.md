@@ -18,4 +18,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcospenin&show_icons=true&locale=en" alt="marcospenin" /></p>
 
-<p><img width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?marcospenin"/></p>
+<p>&nbsp;<img align="center" src="https://ionicabizau.github.io/github-profile-languages/api.html?marcospenin" alt="marcospenin"/></p>
